@@ -109,6 +109,18 @@ audio notifications, and IoT monitoring.
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
+<h2>⚡️ Where to find me</h2>
+
+<p>
+<a target="_blank" href="https://www.linkedin.com/in/fauzi-nurfadilah-2057982a5" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+
+<a target="_blank" href="https://www.instagram.com/fauzinrfdlh10" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Instagram-F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+</p>
+
 <h2>📫 Connect With Me</h2>
 
 <p>
