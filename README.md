@@ -116,3 +116,14 @@ audio notifications, and IoT monitoring.
 <h2>🔥 GitHub Streak</h2>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fauzinrfdlh10&" alt="Fauzinrfdlh10" /></p>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+<a href="https://github.com/Fauzinrfdlh10">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="LINK_LINKEDIN_KAMU">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
