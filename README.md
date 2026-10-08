@@ -128,6 +128,6 @@ audio notifications, and IoT monitoring.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="LINK_LINKEDIN_KAMU">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://www.linkedin.com/in/fauzi-nurfadilah-2057982a5" />
 </a>
 </p>
