@@ -127,7 +127,7 @@ audio notifications, and IoT monitoring.
 <a href="https://github.com/Fauzinrfdlh10">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="LINK_LINKEDIN_KAMU">
-  <img src="https://www.linkedin.com/in/fauzi-nurfadilah-2057982a5" />
+<a target="_blank" href="https://www.linkedin.com/in/fauzi-nurfadilah-2057982a5" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 </p>
